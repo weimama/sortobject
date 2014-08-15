@@ -1,0 +1,11 @@
+{
+  "name": "sortobject",
+  "version": "1.0.0",
+  "description": "sort object based on lexicographic order",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "benma",
+  "license": "BSD-2-Clause"
+}
